@@ -35,8 +35,10 @@ Results & Interpretations (Number 2): <br> <br>
 
 Insight: Kategori Mobile & Tablets mencatat nilai transaksi tertinggi sepanjang tahun 2022, dengan total transaksi sebesar 918.451.576, Fakta ini mengungkapkan bahwa produk elektronik, khususnya ponsel dan tablet, memiliki tingkat permintaan yang tinggi di pasar.
 
+Results & Interpretations (Number 3): <br> <br>
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%203.png?raw=true)
 
+<br>
 
-
-
-
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%203.png?raw=true)
+Insight: Data menunjukkan bahwa pada tahun 2022 dibandingkan 2021, terjadi peningkatan transaksi pada kategori Mobiles & Tablets, Entertainment, Appliances, Men Fashion, Computing, Home & Living, Health & Sport, Women Fashion, School & Education, Superstore, Soghaat, Kids & Baby, serta Beauty & Grooming. Sebaliknya, kategori Others dan Books mengalami penurunan.
