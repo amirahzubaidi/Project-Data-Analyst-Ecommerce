@@ -18,6 +18,6 @@ Issue Definitions:
 - Urutkan dari ke-5 produk ini berdasarkan nilai transaksinya. 1. Samsung 2. Apple 3. Sony 4. Huawei 5. Lenovo
 
 Results & Interpretations:
-![alt text](?raw=true)
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%201.png?raw=true)
    
 
