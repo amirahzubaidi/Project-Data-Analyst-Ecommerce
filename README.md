@@ -17,11 +17,28 @@ Issue Definitions:
 - Tampilkan top 5 metode pembayaran yang paling populer digunakan selama 2022 (berdasarkan total unique order).
 - Urutkan dari ke-5 produk ini berdasarkan nilai transaksinya. 1. Samsung 2. Apple 3. Sony 4. Huawei 5. Lenovo
 
-Results & Interpretations: <br> <br>
+Results & Interpretations (Number 1): <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%201.png?raw=true)
 
 <br> 
 
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%201.png?raw=true)
+
+<br>
+Insight: Pada bulan Agustus 2021 (bulan ke-8), tercatat jumlah transaksi tertinggi sepanjang tahun, mencapai 227.862.744.
    
+Results & Interpretations (Number 2): <br> <br>
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%202.png?raw=true)
+
+<br> 
+
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%202.png?raw=true)
+
+<br>
+Insight: Kategori Mobile & Tablets mencatat nilai transaksi tertinggi sepanjang tahun 2022, dengan total transaksi sebesar 918.451.576, Fakta ini mengungkapkan bahwa produk elektronik, khususnya ponsel dan tablet, memiliki tingkat permintaan yang tinggi di pasar.
+
+
+
+
+
 
