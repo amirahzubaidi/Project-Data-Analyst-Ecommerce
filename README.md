@@ -20,7 +20,8 @@ Issue Definitions:
 Results & Interpretations: <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%201.png?raw=true)
 
-<br>
+<br> 
+
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%201.png?raw=true)
    
 
