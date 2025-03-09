@@ -8,7 +8,8 @@ Python digunakan untuk mengotomatisasi analisis data dan visualisasi dengan Pand
 Kami membuat dashboard interaktif di Looker Studio untuk menyajikan data secara visual. Grafik dan filter diterapkan guna menganalisis metrik penting seperti penjualan dan profit, sehingga laporan lebih informatif dan mudah dipahami.
 
 ### Project Details
-Untuk penjelasan lebih lanjut, bisa akses link berikut ini: 
+Untuk penjelasan lebih lanjut, bisa akses link berikut ini: https://www.canva.com/design/DAGfMCFPdqI/qXjeIwXceDT__NPcBp-JaA/edit?utm_content=DAGfMCFPdqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 1. Data Analytics Using SQL in Bigquery
 Issue Definitions:
 - Selama transaksi yang terjadi selama 2021, pada bulan apa total nilai transaksi (after_discount) paling besar?
