@@ -23,7 +23,6 @@ Results & Interpretations (Number 1): <br> <br>
 <br> 
 
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%201.png?raw=true)
-
 Insight: Pada bulan Agustus 2021 (bulan ke-8), tercatat jumlah transaksi tertinggi sepanjang tahun, mencapai 227.862.744.
    
 Results & Interpretations (Number 2): <br> <br>
@@ -32,7 +31,6 @@ Results & Interpretations (Number 2): <br> <br>
 <br> 
 
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%202.png?raw=true)
-
 Insight: Kategori Mobile & Tablets mencatat nilai transaksi tertinggi sepanjang tahun 2022, dengan total transaksi sebesar 918.451.576, Fakta ini mengungkapkan bahwa produk elektronik, khususnya ponsel dan tablet, memiliki tingkat permintaan yang tinggi di pasar.
 
 Results & Interpretations (Number 3): <br> <br>
