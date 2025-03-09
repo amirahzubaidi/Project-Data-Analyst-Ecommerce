@@ -1,13 +1,13 @@
 ## Project-Data-Analyst-Ecommerce
 ### Project Description
-<br>1.Data Analysis using SQL in BigQuery
+<br>1. Data Analysis using SQL in BigQuery
 Kami menggunakan SQL untuk mengelola dan menganalisis data dengan menyusun query guna menggabungkan tabel dan melakukan perhitungan statistik. Proses ini membantu mengidentifikasi pola dan tren dalam dataset.
-<br>2.Data Analysis using Python in Google Colab
+<br>2. Data Analysis using Python in Google Colab
 Python digunakan untuk mengotomatisasi analisis data dan visualisasi dengan Pandas dan Matplotlib. Kami memproses data, membuat model prediktif, dan menghasilkan grafik untuk mendukung pengambilan keputusan.
-<br>3.Data Visualization in Looker Studio 
+<br>3. Data Visualization in Looker Studio 
 Kami membuat dashboard interaktif di Looker Studio untuk menyajikan data secara visual. Grafik dan filter diterapkan guna menganalisis metrik penting seperti penjualan dan profit, sehingga laporan lebih informatif dan mudah dipahami.
 
-#### 1.Data Analysis using SQL in BigQuery
+#### 1. Data Analysis using SQL in BigQuery
 #### Link
 Untuk penjelasan lebih lanjut, bisa akses link berikut ini: https://www.canva.com/design/DAGfMCFPdqI/qXjeIwXceDT__NPcBp-JaA/edit?utm_content=DAGfMCFPdqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
