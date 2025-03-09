@@ -47,9 +47,26 @@ Insight: Data menunjukkan bahwa pada tahun 2022 dibandingkan 2021, terjadi penin
 <br>
 
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%204.png?raw=true)
-<br> Insight: Berdasarkan data yang diperoleh, berikut adalah metode pembayaran yang paling sering digunakan oleh konsumen pada tahun 2022:
+<br> Insight: berdasarkan data yang diperoleh, berikut adalah metode pembayaran yang paling sering digunakan oleh konsumen pada tahun 2022:
 <br> COD: 1809 transaksi (86,56%)
 <br> Payaxis: 181 transaksi (8,67%)
 <br> Customercredit: 75 transaksi (3,59%)
 <br> Easypay: 69 transaksi (3,30%)
 <br> Jazzwallet: 26 transaksi (1,24%)
+
+#### Results & Interpretations (Number 5): <br> <br>
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%205.png?raw=true)
+
+<br>
+
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%205.png?raw=true)
+Insight: berikut adalah lima produk teratas berdasarkan nilai transaksi:
+<br> Samsung: 588.764.148 (45,98%)
+<br> Apple: 213310040 (21,52%)
+<br> Sony: 63.960.718 (6,45%)
+<br> Huawei: 63.160.260 (6,37%)
+<br> Lenovo: 62.379.800,4 (6,29%)
+
+
+
+
