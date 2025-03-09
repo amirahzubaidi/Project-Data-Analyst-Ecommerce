@@ -1,6 +1,6 @@
 ## Project-Data-Analyst-Ecommerce
-### Project Description
-<br>1. Data Analysis using SQL in BigQuery
+### Project Description <br>
+1. Data Analysis using SQL in BigQuery
 Kami menggunakan SQL untuk mengelola dan menganalisis data dengan menyusun query guna menggabungkan tabel dan melakukan perhitungan statistik. Proses ini membantu mengidentifikasi pola dan tren dalam dataset.
 <br>2. Data Analysis using Python in Google Colab
 Python digunakan untuk mengotomatisasi analisis data dan visualisasi dengan Pandas dan Matplotlib. Kami memproses data, membuat model prediktif, dan menghasilkan grafik untuk mendukung pengambilan keputusan.
@@ -18,7 +18,7 @@ Untuk penjelasan lebih lanjut, bisa akses link berikut ini: https://www.canva.co
 - Tampilkan top 5 metode pembayaran yang paling populer digunakan selama 2022 (berdasarkan total unique order).
 - Urutkan dari ke-5 produk ini berdasarkan nilai transaksinya. 1. Samsung 2. Apple 3. Sony 4. Huawei 5. Lenovo
 
-##### Results & Interpretations (Number 1): <br> <br>
+#### Results & Interpretations (Number 1): <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%201.png?raw=true)
 
 <br> 
@@ -26,7 +26,7 @@ Untuk penjelasan lebih lanjut, bisa akses link berikut ini: https://www.canva.co
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%201.png?raw=true)
 <br>Insight: Pada bulan Agustus 2021 (bulan ke-8), tercatat jumlah transaksi tertinggi sepanjang tahun, mencapai 227.862.744.
    
-##### Results & Interpretations (Number 2): <br> <br>
+#### Results & Interpretations (Number 2): <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%202.png?raw=true)
 
 <br> 
@@ -34,7 +34,7 @@ Untuk penjelasan lebih lanjut, bisa akses link berikut ini: https://www.canva.co
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%202.png?raw=true)
 <br>Insight: Kategori Mobile & Tablets mencatat nilai transaksi tertinggi sepanjang tahun 2022, dengan total transaksi sebesar 918.451.576, Fakta ini mengungkapkan bahwa produk elektronik, khususnya ponsel dan tablet, memiliki tingkat permintaan yang tinggi di pasar.
 
-##### Results & Interpretations (Number 3): <br> <br>
+#### Results & Interpretations (Number 3): <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%203.png?raw=true)
 
 <br>
@@ -42,7 +42,7 @@ Untuk penjelasan lebih lanjut, bisa akses link berikut ini: https://www.canva.co
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%203.png?raw=true)
 Insight: Data menunjukkan bahwa pada tahun 2022 dibandingkan 2021, terjadi peningkatan transaksi pada kategori Mobiles & Tablets, Entertainment, Appliances, Men Fashion, Computing, Home & Living, Health & Sport, Women Fashion, School & Education, Superstore, Soghaat, Kids & Baby, serta Beauty & Grooming. Sebaliknya, kategori Others dan Books mengalami penurunan.
 
-##### Results & Interpretations (Number 4): <br> <br>
+#### Results & Interpretations (Number 4): <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%204.png?raw=true)
 
 <br>
@@ -55,7 +55,7 @@ Insight: Data menunjukkan bahwa pada tahun 2022 dibandingkan 2021, terjadi penin
 <br> Easypay: 69 transaksi (3,30%)
 <br> Jazzwallet: 26 transaksi (1,24%)
 
-##### Results & Interpretations (Number 5): <br> <br>
+#### Results & Interpretations (Number 5): <br> <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%205.png?raw=true)
 
 <br>
