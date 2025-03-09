@@ -17,21 +17,9 @@ Issue Definitions:
 - Tampilkan top 5 metode pembayaran yang paling populer digunakan selama 2022 (berdasarkan total unique order).
 - Urutkan dari ke-5 produk ini berdasarkan nilai transaksinya. 1. Samsung 2. Apple 3. Sony 4. Huawei 5. Lenovo
 
-Results & Interpretations:
-SELECT 
-    EXTRACT(MONTH FROM order_date) AS transaction_month,
-    ROUND(SUM(after_discount)) AS total_transaction
-FROM 
-    `tokopedia.order_detail`
-WHERE 
-    EXTRACT(YEAR FROM order_date) = 2021
-    AND is_valid = 1
-GROUP BY 
-    1
-ORDER BY 
-    total_transaction DESC
-LIMIT 
-    1;
+Results & Interpretations: <br>
+![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Query%20no%201.png?raw=true)
+
 
 <br>
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%201.png?raw=true)
