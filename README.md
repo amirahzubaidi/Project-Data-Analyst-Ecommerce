@@ -60,7 +60,7 @@ Insight: Data menunjukkan bahwa pada tahun 2022 dibandingkan 2021, terjadi penin
 <br>
 
 ![alt text](https://github.com/amirahzubaidi/Project-Data-Analyst-Ecommerce/blob/main/SQL%20in%20Bigquery/Screenshot%20Query%20%26%20Result/Result%20no%205.png?raw=true)
-Insight: berikut adalah lima produk teratas berdasarkan nilai transaksi:
+<br> Insight: berikut adalah lima produk teratas berdasarkan nilai transaksi:
 <br> Samsung: 588.764.148 (45,98%)
 <br> Apple: 213310040 (21,52%)
 <br> Sony: 63.960.718 (6,45%)
