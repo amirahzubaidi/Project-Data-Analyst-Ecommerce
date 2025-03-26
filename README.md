@@ -71,20 +71,12 @@ Insight: Data menunjukkan bahwa pada tahun 2022 dibandingkan 2021, terjadi penin
 #### 2. Data Analytics Using Python in Google Collab
 #### Link
 Untuk penjelasan lebih lanjut, bisa akses link berikut ini:
+https://www.canva.com/design/DAGfQvnm4hw/HCAmSzKIS4nfClIlK2OzAg/edit?utm_content=DAGfQvnm4hw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-#### Issue Definitions:
-Dear Data Analyst,
-
-Menindaklanjuti meeting gabungan Tim Warehouse dan Tim Marketing, kami menemukan bahwa ketersediaan stock produk dengan Kategori Others pada akhir 2022 kemarin masih banyak.
-<br>1. Kami mohon bantuan untuk melakukan pengecekan data penjualan kategori tersebut dengan tahun 2021 secara kuantitas penjualan. Dugaan sementara kami, telah terjadi penurunan kuantitas penjualan pada 2022 dibandingkan 2021. (Mohon juga menampilkan data ke-15 kategori)
-<br>2. Apabila memang terjadi penurunan kuantitas penjualan pada kategori Others, kami mohon bantuan untuk menyediakan data TOP 20 nama produk yang mengalami penurunan paling tinggi pada 2022 jika dibanding dengan 2021. Hal ini kami gunakan sebagai bahan diskusi pada meeting selanjutnya. 
-
-Mohon bantuan untuk mengirimkan data tersebut paling lambat 4 hari dari hari ini. Atas bantuan yang diberikan, kami mengucapkan terima kasih.
-
-Regards
-Tim Werehouse
-
-#### Result & Interpretation: 
+#### 3. Data Analytics Using Looker Studio 
+#### Link
+Untuk penjelasan lebih lanjut, bisa akses link berikut ini: 
+https://www.canva.com/design/DAGfqbUOrDU/U3hY09V-qygvdHJITjB1cg/edit?utm_content=DAGfqbUOrDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 
 
